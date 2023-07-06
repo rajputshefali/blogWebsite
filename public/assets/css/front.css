@@ -1,0 +1,23 @@
+body{
+    background-image: url('/assets/img/design.webp');
+    text-align: center;
+    
+    
+}
+
+ul 
+{
+    list-style-type: none;
+    list-style-type: none;
+    margin: 3;
+    border: solid 2px black;
+    border-radius: 20px;
+    height: 287px;
+    width: 352px;
+    margin-left: 449px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+h1{
+    text-align: center;
+}
